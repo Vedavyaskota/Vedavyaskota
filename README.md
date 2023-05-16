@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning python for data science purpose
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me - <a href="https://wa.me/919505627511">Whatsapp<a>
+- 📫 How to reach me - <a href="https://wa.me/19403672340">Whatsapp<a>
 
 <!---
 Vedavyaskota/Vedavyaskota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
